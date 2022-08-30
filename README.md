@@ -1,13 +1,11 @@
-![analytics image (flat)](https://raw.githubusercontent.com/vitr/google-analytics-beacon/master/static/badge-flat.gif)
-![analytics](https://www.google-analytics.com/collect?v=1&cid=555&t=pageview&ec=repo&ea=open&dp=/Plantilla-de-repositorio/readme&dt=&tid=UA-4677001-16)
 
-## Notas y ejercicios Curso Fullstack Developer
+## Notas y ejercicios JavaScript Guía definitiva Construye +15 proyectos
 En este repositorio encontrarás las notas del curso del título del repositorio, así como sugerencias para abordar los distintos ejericicios que se abordan durante el curso. 
 
 ## Nota 👇
 
 
-*Puedes tomar el cuerso disponible en youtube [Curso Fullstack Developer](https://youtu.be/3zpYG6dzzro)*
+*JavaScript Moderno Guía Definitiva Construye +15 proyectos [Curso Fullstack Developer](https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/)*
 
 <h1 align="center"> Notas y ejercicios Curso Fullstack Developer</h1>
 <p align="center"> </p>
@@ -16,47 +14,17 @@ En este repositorio encontrarás las notas del curso del título del repositorio
 ## Tabla de contenidos:
 ---
 
-- [Notas y ejercicios Curso Fullstack Developer](#notas-y-ejercicios-curso-fullstack-developer)
+- [Notas y ejercicios JavaScript Guía definitiva Construye +15 proyectos](#notas-y-ejercicios-javascript-guía-definitiva-construye-15-proyectos)
 - [Nota 👇](#nota-)
 - [## Tabla de contenidos:](#-tabla-de-contenidos)
-- [## Badges o escudos](#-badges-o-escudos)
-  - [Ejemplos de badges](#ejemplos-de-badges)
-- [### Badges que solicitamos:](#-badges-que-solicitamos)
 - [## Descripción y contexto](#-descripción-y-contexto)
 - [## Guía de usuario](#-guía-de-usuario)
 - [## Guía de instalación](#-guía-de-instalación)
-  - [Dependencias](#dependencias)
 - [## Cómo contribuir](#-cómo-contribuir)
-- [## Código de conducta](#-código-de-conducta)
 - [## Autor/es](#-autores)
 - [## Información adicional](#-información-adicional)
 - [## Licencia](#-licencia)
 - [Limitación de responsabilidades](#limitación-de-responsabilidades)
-
-## Badges o escudos
----
-Es común en muchos repositorios open source el uso de badges o escudos para dar visbilidad el uso de microservicios, licencias, descargas, etc. Recomendamos revisar la iniciativa https://shields.io/ donde según consideres necesario podrás generar badges para tu repo. 
-
-### Ejemplos de badges
-
-- code coverage percentage: ![coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen)
-- stable release version: ![version](https://img.shields.io/badge/version-1.2.3-blue)
-- package manager release: ![gem](https://img.shields.io/badge/gem-2.2.0-blue)
-- status of third-party dependencies: ![dependencies](https://img.shields.io/badge/dependencies-out%20of%20date-orange)
-- static code analysis grade: ![codacy](https://img.shields.io/badge/codacy-B-green)
-- [SemVer](https://semver.org/) version observance: ![semver](https://img.shields.io/badge/semver-2.0.0-blue)
-- amount of [Liberapay](https://liberapay.com/) donations per week: ![receives](https://img.shields.io/badge/receives-2.00%20USD%2Fweek-yellow)
-- Python package downloads: ![downloads](https://img.shields.io/badge/downloads-13k%2Fmonth-brightgreen)
-- Chrome Web Store extension rating: ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
-- [Uptime Robot](https://uptimerobot.com) percentage: ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
-
-### Badges que solicitamos:
----
-En la iniciativa Código para el Desarrollo solicitamos a los equipos que suman sus herramientas al catálogo de sumar el badge generado por el uso del microservicio de evaluación estática de código SonarCloud.
-
-El badge se ve así y redirige al reporte de evaluación estática del último commit de la herramienta:
-
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=EL-BID_guia-de-publicacion&metric=alert_status)](https://sonarcloud.io/dashboard?id=EL-BID_guia-de-publicacion)
 
 
 ## Descripción y contexto
@@ -80,20 +48,9 @@ La guía de instalación debe contener de manera específica:
 - Las dependencias propias del proyecto, tanto externas como internas (orden de compilación de sub-módulos, configuración de ubicación de librerías dinámicas, etc.).
 - Pasos específicos para la compilación del código fuente y ejecución de tests unitarios en caso de que el proyecto disponga de ellos.
 
-### Dependencias
-Descripción de los recursos externos que generan una dependencia para la reutilización de la herramienta digital (librerías, frameworks, acceso a bases de datos y licencias de cada recurso). Es una buena práctica describir las últimas versiones en las que ha sido probada la herramienta digital. 
-
-    Puedes usar este estilo de letra diferenciar los comandos de instalación.
-
 ## Cómo contribuir
 ---
 Esta sección explica a desarrolladores cuáles son las maneras habituales de enviar una solicitud de adhesión de nuevo código (“pull requests”), cómo declarar fallos en la herramienta y qué guías de estilo se deben usar al escribir más líneas de código. También puedes hacer un listado de puntos que se pueden mejorar de tu código para crear ideas de mejora.
-
-## Código de conducta 
----
-El código de conducta establece las normas sociales, reglas y responsabilidades que los individuos y organizaciones deben seguir al interactuar de alguna manera con la herramienta digital o su comunidad. Es una buena práctica para crear un ambiente de respeto e inclusión en las contribuciones al proyecto. 
-
-La plataforma Github premia y ayuda a los repositorios dispongan de este archivo. Al crear CODE_OF_CONDUCT.md puedes empezar desde una plantilla sugerida por ellos. Puedes leer más sobre cómo crear un archivo de Código de Conducta (aquí)[https://help.github.com/articles/adding-a-code-of-conduct-to-your-project/]
 
 ## Autor/es
 ---
