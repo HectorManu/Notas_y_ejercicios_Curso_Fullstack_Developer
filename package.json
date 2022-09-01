@@ -1,0 +1,23 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "En este repositorio encontrarás las notas del curso del título del repositorio, así como sugerencias para abordar los distintos ejericicios que se abordan durante el curso.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HectorManu/Notas_y_ejercicios_Curso_Fullstack_Developer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HectorManu/Notas_y_ejercicios_Curso_Fullstack_Developer/issues"
+  },
+  "homepage": "https://github.com/HectorManu/Notas_y_ejercicios_Curso_Fullstack_Developer#readme",
+  "devDependencies": {
+    "eslint": "^8.23.0"
+  }
+}
