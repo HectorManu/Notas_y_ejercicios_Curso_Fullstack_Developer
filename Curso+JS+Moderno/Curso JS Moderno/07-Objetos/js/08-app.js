@@ -10,8 +10,16 @@ const producto = {
     disponible : true,// este último puede llevar una coma o no 
 }
 
-producto.disponible = false;
+Object.freeze(producto);
 
-producto.imagen = 'imagen.jpg';
+// producto.disponible = false;
+
+// producto.imagen = 'imagen.jpg';
+
+//  delete producto.precio;
 
 console.log(producto);
+
+// de estar congelado lo que tendriamos que hacer es usar un clone para estar modificando el clonado
+// si qeremos ver si un objeto está congelado podemos hacer lo siguiente 
+console.log(Object.isFrozen(producto));
