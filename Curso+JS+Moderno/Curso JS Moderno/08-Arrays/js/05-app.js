@@ -8,6 +8,8 @@
 // console.table(meses);
 
 
+
+// FORMA IMPERATIVA
 // ejemplo de carrito 
 const carrito = [];
 
