@@ -9,7 +9,7 @@ const aprendiendo = function (params) {
 // PARA LLEVARLA A UN ARROW FUNCIONT
 
 const aprendiendo2 = () => /**aquí la fecha se transforma en en function  */ {
-    console.log(`Aprendiendo JavaScript`);
+    //console.log(`Aprendiendo JavaScript`);
 }
 
 // si es una sola linea no faltan las llaves y así es implicito el return 
